@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1084234747319",
+    "project_id": "accident-5281a",
+    "storage_bucket": "accident-5281a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084234747319:android:cb147a95959c75c6a0ec32",
+        "android_client_info": {
+          "package_name": "com.example.accident"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084234747319-2rji4vm0kpk2rl49np9mfrba2kr4q15h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEd1tf4xNP4LFdWF0-f7QBysf1tyQxMj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084234747319-2rji4vm0kpk2rl49np9mfrba2kr4q15h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1084234747319-aalasmhmilkg7b22ovk7gv8lg694if1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.accident"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
